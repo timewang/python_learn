@@ -1,5 +1,3 @@
-
-
 def triangles():
     t = 0
     last = []
