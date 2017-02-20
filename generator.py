@@ -9,15 +9,15 @@ def triangles():
             yield tri
             last = tri
             t = 1
-            tri = list(range(t + 1))
+            tri = list(range(2))
         elif t == 1:
             for index in tri:
                 tri[0] = 1
                 tri[1] = 1
             yield tri
             last = tri
-            t = t + 1
-            tri = list(range(t + 1))
+            t = 2
+            tri = list(range(3))
         else:
             for index in tri:
                 if index == 0:
