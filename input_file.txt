@@ -1,0 +1,27 @@
+add device 1: /dev/input/event9
+  name:     "HaierTV-RC"
+add device 2: /dev/input/event8
+  name:     "HaierTV-RC"
+add device 3: /dev/input/event7
+  name:     "iflytek_remote"
+could not get driver version for /dev/input/mouse3, Not a typewriter
+add device 4: /dev/input/event6
+  name:     "alitv-sensor"
+could not get driver version for /dev/input/mouse2, Not a typewriter
+add device 5: /dev/input/event5
+  name:     "alitv-motion"
+could not get driver version for /dev/input/js1, Invalid argument
+add device 6: /dev/input/event4
+  name:     "alitv-Vcontroller"
+could not get driver version for /dev/input/js0, Invalid argument
+add device 7: /dev/input/event3
+  name:     "alitv-mouse"
+could not get driver version for /dev/input/mouse1, Not a typewriter
+add device 8: /dev/input/event2
+  name:     "MStar Smart TV Keypad"
+could not get driver version for /dev/input/mouse0, Not a typewriter
+add device 9: /dev/input/event1
+  name:     "MCE IR Keyboard/Mouse (ir)"
+could not get driver version for /dev/input/mice, Not a typewriter
+add device 10: /dev/input/event0
+  name:     "Haier Smart TV IR Receiver"
